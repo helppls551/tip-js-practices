@@ -1,7 +1,7 @@
 "use strict";
 
-const totalTasks = 9;
-const completedTasks = 9;
+const totalTasks = 5;
+const completedTasks = 6;
 
 if (
     !Number.isFinite(totalTasks) ||
